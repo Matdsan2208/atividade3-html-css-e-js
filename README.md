@@ -37,7 +37,7 @@ O site foi desenvolvido com foco em **usabilidade, acessibilidade e experiência
 ---
 
 ## 🗂️ Como Acessar
-**Acesse:**
+**Acesse:** https://matdsan2208.github.io/atividade3-html-css-e-js/
 
-## 🗂️ Estrutura do Projeto
+
 
